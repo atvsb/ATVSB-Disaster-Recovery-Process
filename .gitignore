@@ -1,0 +1,19 @@
+# Downloaded ISO files
+*.iso
+
+# Checksum files
+*SHA256SUMS*
+*CHECKSUM*
+*sha256sum*
+*sha256sums*
+
+# Download directory
+downloads/
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
